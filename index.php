@@ -16,8 +16,7 @@ and open the template in the editor.
                 $x+=2;
             }
             echo $x;
-            echo "<br>Estou modificando o arquivo";
-            echo "Utilizando o Netbeans";
+            echo "<br>Consegui enviar.";
         ?>
     </body>
 </html>
