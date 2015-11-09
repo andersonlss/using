@@ -17,7 +17,7 @@ and open the template in the editor.
             }
             echo $x;
             echo "<br>Consegui enviar.";
-            echo "Sou o Selenguini";
+            echo "Sou o Anderson Selenguini";
         ?>
     </body>
 </html>
